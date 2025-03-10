@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Haroon Rasheed
 
 <!--
 **haroon26/haroon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🖥️ Making impact in IT Asset Management by writing code for EZO AssetSonar
+- 🧐 Love to debug issues rather than adding new ones
+- ♟️ 98th percentil on chess.com
