@@ -1,19 +1,34 @@
-## Hi 👋, I'm Haroon Rasheed
+## 🌟 About Me
+- 🖥️ IT Asset Management specialist at EZO AssetSonar, focused on building efficient solutions to streamline workflows.
+- 🛠️ Enthusiastic about debugging—I enjoy solving complex issues and optimizing systems.
+- ♟️ Chess player ranked in the 98th percentile on chess.com—always planning my next move.
+- 🌍 Based in Lahore, Pakistan, where I code with a cup of chai nearby.
 
-<!--
-**haroon26/haroon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+The technologies I use to build and maintain projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🖥️ Making impact in IT Asset Management by writing code for EZO AssetSonar
-- 🧐 Love to debug issues rather than adding new ones
-- ♟️ 98th percentil on chess.com
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+
+---
+
+## 📈 GitHub Stats & Streaks
+Here's a look at my coding activity and top languages:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haroon26&theme=github&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haroon26&layout=compact&theme=github&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+Feel free to reach out to discuss tech, chess, or potential collaborations:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rharoon26)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:haroonar32@gmail.com)
