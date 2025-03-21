@@ -1,6 +1,6 @@
 ## 🌟 About Me
-- 🖥️ IT Asset Management specialist at EZO AssetSonar, focused on building efficient solutions to streamline workflows.
-- 🛠️ Enthusiastic about debugging—I enjoy solving complex issues and optimizing systems.
+- 🖥️ IT Asset Management specialist at EZO AssetSonar, focused on building efficient solutions to IT workflows.
+- 🛠️ Enthusiastic about debugging—I enjoy solving complex existing issues than creating new ones.
 - ♟️ Chess player ranked in the 98th percentile on chess.com—always planning my next move.
 - 🌍 Based in Lahore, Pakistan, where I code with a cup of chai nearby.
 
