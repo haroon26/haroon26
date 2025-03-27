@@ -2,7 +2,7 @@ name: Update README Daily
 
 on:
   schedule:
-    - cron: '23 2 * * *'  # Runs every day at midnight UTC
+    - cron: '23 2 * * *'
   workflow_dispatch:      # Allows manual triggering for testing
 
 jobs:
@@ -16,11 +16,13 @@ jobs:
         run: |
           # Replace the "Last updated on" line with the current date
           sed -i "/## 📅 Daily Update/{n;s/Last updated on: .*/Last updated on: $(date '+%Y-%m-%d')/}" README.md
+          tail README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "haroonar32@gmail.com"
           git config --local user.name "Haroon Rasheed"
           git add README.md
-          git commit -m "Update README timestamp for $(date '+%Y-%m-%d')"
-          git push
+          git commit -m "Update README timestamp"
+          SLUG=${{ github.repository }}
+          git push "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$SLUG.git"
