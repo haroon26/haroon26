@@ -23,3 +23,6 @@ Here's a snapshot of my GitHub activity and top languages:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroon26&show_icons=true&theme=github&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haroon26&layout=compact&theme=github&hide_border=true)
+
+## 📅 Daily Update
+Last updated on: 2025-03-27
