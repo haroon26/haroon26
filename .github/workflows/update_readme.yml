@@ -23,5 +23,4 @@ jobs:
           git config --local user.name "Haroon Rasheed"
           git add README.md
           git commit -m "Update README timestamp for $(date '+%Y-%m-%d')"
-          SLUG=${{ github.repository }}
-          git push "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$SLUG.git"
+          git push
